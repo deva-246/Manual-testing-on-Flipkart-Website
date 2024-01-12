@@ -1,4 +1,4 @@
-# Manual-testing-on-Flipkart-Website
+# Manual Testing
 
 Manual testing is a testing process where software testers manually execute test cases without the use of automation tools. The goal of manual testing is to identify defects or bugs in the software and ensure that the application works as intended. Testers follow a set of predefined test cases, explore the software, and provide feedback on its usability, functionality, and overall user experience.
 
